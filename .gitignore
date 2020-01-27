@@ -1,0 +1,10 @@
+.*
+!.git*
+*~
+*.png
+*.svg
+decompose/Makefile
+decompose/CMakeCache.txt
+decompose/CMakeFiles/*
+decompose/cmake_install.cmake
+decompose/decompose
